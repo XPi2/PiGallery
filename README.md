@@ -1,8 +1,12 @@
 # PiGallery
 Simple Set of tools to get artworks datasets
 
-Current museums: **MOMA**, **TATE** & **MET**
+Current museums: 
+<br>**MOMA**  [CSV](https://github.com/MuseumofModernArt/collection/blob/master/Artworks.csv)
+<br>**TATE**  [CSV](https://github.com/tategallery/collection/blob/master/artwork_data.csv)
+<br>**MET**   [CSV](https://github.com/metmuseum/openaccess/blob/master/MetObjects.csv)
 
+Some result images could be licensed, be aware on how to use them at your own risk.
 ## Use guide
 
 **getlistpainters.py** [WIP] / Edit:
